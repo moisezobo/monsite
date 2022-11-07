@@ -2,7 +2,7 @@
     "name": "pc/monsite",
     "autoload": {
         "psr-4": {
-            "Pc\\Monsite\\": "src/"
+            "App\\": "src/"
         }
     },
     "authors": [
