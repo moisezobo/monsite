@@ -1,0 +1,15 @@
+{
+    "name": "pc/monsite",
+    "autoload": {
+        "psr-4": {
+            "Pc\\Monsite\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zobo moise",
+            "email": "mose.zobo@yahoo.fr"
+        }
+    ],
+    "require": {}
+}
